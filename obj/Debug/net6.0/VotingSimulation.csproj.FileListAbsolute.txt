@@ -1,0 +1,15 @@
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\bin\Debug\net6.0\VotingSimulation.exe
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\bin\Debug\net6.0\VotingSimulation.deps.json
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\bin\Debug\net6.0\VotingSimulation.runtimeconfig.json
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\bin\Debug\net6.0\VotingSimulation.dll
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\bin\Debug\net6.0\ref\VotingSimulation.dll
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\bin\Debug\net6.0\VotingSimulation.pdb
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.csproj.AssemblyReference.cache
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.AssemblyInfoInputs.cache
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.AssemblyInfo.cs
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.csproj.CoreCompileInputs.cache
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.dll
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\ref\VotingSimulation.dll
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.pdb
+O:\MyStuff\Files\mySpace\Projects\Internship\VotingSimulation\obj\Debug\net6.0\VotingSimulation.genruntimeconfig.cache

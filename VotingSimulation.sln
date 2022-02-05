@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSimulation", "VotingSimulation.csproj", "{09DB0B59-B55E-499C-9B92-2A8DB8E03828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DB0B59-B55E-499C-9B92-2A8DB8E03828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DB0B59-B55E-499C-9B92-2A8DB8E03828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DB0B59-B55E-499C-9B92-2A8DB8E03828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DB0B59-B55E-499C-9B92-2A8DB8E03828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
